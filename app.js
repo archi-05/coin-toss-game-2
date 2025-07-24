@@ -6,7 +6,7 @@ let tails = 0;
 let userScore = 0;
 let computerScore = 0;
 
-
+//archi
 function displaySelections(user, computer){
     const playerSelection = document.querySelector('#player-selection');
     const computerSelection = document.querySelector('#computer-selection');
