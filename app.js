@@ -1,4 +1,4 @@
-//grab selection of head or tail
+//archi//grab selection of head or tail
 const buttons = document.querySelectorAll('button');
 //set values for heads and tails
 let heads = 1;
